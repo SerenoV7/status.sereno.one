@@ -12,7 +12,7 @@ sites:
   - name: Portfolio
     url: https://sereno.one
   - name: CDN
-    url: https://cdn.sereno.one
+    url: https://cdn.sereno.one/i/morch.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
