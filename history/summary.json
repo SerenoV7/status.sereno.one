@@ -22,19 +22,19 @@
     "url": "https://git.sereno.one",
     "icon": "https://icons.duckduckgo.com/ip3/git.sereno.one.ico",
     "slug": "git-lab",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1129,
-    "timeDay": 1039,
-    "timeWeek": 1034,
-    "timeMonth": 1129,
-    "timeYear": 1129,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1143,
+    "timeDay": 1185,
+    "timeWeek": 1083,
+    "timeMonth": 1143,
+    "timeYear": 1143,
     "dailyMinutesDown": {
-      "2024-09-25": 0
+      "2024-09-25": 19
     }
   },
   {
