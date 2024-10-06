@@ -4,19 +4,19 @@
     "url": "https://drive.sereno.one",
     "icon": "https://icons.duckduckgo.com/ip3/drive.sereno.one.ico",
     "slug": "drive",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 759,
-    "timeDay": 581,
-    "timeWeek": 747,
-    "timeMonth": 759,
-    "timeYear": 759,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 771,
+    "timeDay": 885,
+    "timeWeek": 802,
+    "timeMonth": 771,
+    "timeYear": 771,
     "dailyMinutesDown": {
-      "2024-10-06": 1
+      "2024-10-06": 9
     }
   },
   {
@@ -63,19 +63,19 @@
     "url": "https://sereno.one",
     "icon": "https://icons.duckduckgo.com/ip3/sereno.one.ico",
     "slug": "portfolio",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 265,
-    "timeDay": 270,
-    "timeWeek": 279,
-    "timeMonth": 265,
-    "timeYear": 265,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 260,
+    "timeDay": 182,
+    "timeWeek": 256,
+    "timeMonth": 260,
+    "timeYear": 260,
     "dailyMinutesDown": {
-      "2024-10-06": 1
+      "2024-10-06": 9
     }
   },
   {
@@ -83,19 +83,19 @@
     "url": "https://cdn.sereno.one/i/morch.png",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.sereno.one.ico",
     "slug": "cdn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 497,
-    "timeWeek": 276,
-    "timeMonth": 249,
-    "timeYear": 249,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 315,
+    "timeDay": 1535,
+    "timeWeek": 563,
+    "timeMonth": 315,
+    "timeYear": 315,
     "dailyMinutesDown": {
-      "2024-10-06": 0
+      "2024-10-06": 9
     }
   }
 ]
