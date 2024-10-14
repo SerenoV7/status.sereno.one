@@ -4,18 +4,20 @@
     "url": "https://drive.sereno.one",
     "icon": "https://icons.duckduckgo.com/ip3/drive.sereno.one.ico",
     "slug": "drive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 866,
-    "timeDay": 900,
-    "timeWeek": 854,
-    "timeMonth": 928,
-    "timeYear": 866,
-    "dailyMinutesDown": {}
+    "time": 1197,
+    "timeDay": 8167,
+    "timeWeek": 2677,
+    "timeMonth": 1382,
+    "timeYear": 1197,
+    "dailyMinutesDown": {
+      "2024-10-14": 0
+    }
   },
   {
     "name": "GitLab",
