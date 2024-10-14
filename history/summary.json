@@ -4,19 +4,19 @@
     "url": "https://drive.sereno.one",
     "icon": "https://icons.duckduckgo.com/ip3/drive.sereno.one.ico",
     "slug": "drive",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1197,
-    "timeDay": 8167,
-    "timeWeek": 2677,
-    "timeMonth": 1382,
-    "timeYear": 1197,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 1191,
+    "timeDay": 5765,
+    "timeWeek": 2486,
+    "timeMonth": 1369,
+    "timeYear": 1191,
     "dailyMinutesDown": {
-      "2024-10-14": 0
+      "2024-10-14": 17
     }
   },
   {
