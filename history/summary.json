@@ -4,18 +4,19 @@
     "url": "https://drive.sereno.one",
     "icon": "https://icons.duckduckgo.com/ip3/drive.sereno.one.ico",
     "slug": "drive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 1140,
-    "timeDay": 856,
-    "timeWeek": 841,
-    "timeMonth": 1399,
-    "timeYear": 1140,
+    "time": 1123,
+    "timeDay": 537,
+    "timeWeek": 763,
+    "timeMonth": 1364,
+    "timeYear": 1123,
     "dailyMinutesDown": {
+      "2024-10-22": 0,
       "2024-10-14": 17
     }
   },
@@ -63,18 +64,20 @@
     "url": "https://sereno.one",
     "icon": "https://icons.duckduckgo.com/ip3/sereno.one.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 254,
+    "time": 253,
     "timeDay": 198,
-    "timeWeek": 213,
-    "timeMonth": 257,
-    "timeYear": 254,
-    "dailyMinutesDown": {}
+    "timeWeek": 211,
+    "timeMonth": 255,
+    "timeYear": 253,
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   },
   {
     "name": "CDN",
