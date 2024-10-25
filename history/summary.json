@@ -48,19 +48,19 @@
     "url": "https://ai.sereno.one",
     "icon": "https://icons.duckduckgo.com/ip3/ai.sereno.one.ico",
     "slug": "open-web-ui",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 821,
-    "timeDay": 764,
-    "timeWeek": 722,
-    "timeMonth": 843,
-    "timeYear": 821,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 818,
+    "timeDay": 739,
+    "timeWeek": 718,
+    "timeMonth": 838,
+    "timeYear": 818,
     "dailyMinutesDown": {
-      "2024-10-25": 0
+      "2024-10-25": 12
     }
   },
   {
