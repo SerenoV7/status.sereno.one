@@ -9,8 +9,8 @@ sites:
     url: https://git.sereno.one
   - name: OpenWebUI
     url: https://ai.sereno.one
-  - name: Portfolio
-    url: https://sereno.one
+  - name: API
+    url: https://api.sereno.one
   - name: CDN
     url: https://cdn.sereno.one/i/morch.png
 
