@@ -53,7 +53,7 @@
     "slug": "open-web-ui",
     "status": "up",
     "uptime": "91.05%",
-    "uptimeDay": "68.50%",
+    "uptimeDay": "68.51%",
     "uptimeWeek": "29.85%",
     "uptimeMonth": "83.86%",
     "uptimeYear": "91.05%",
@@ -77,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.sereno.one.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "1.61%",
-    "uptimeDay": "1.61%",
-    "uptimeWeek": "1.61%",
-    "uptimeMonth": "1.61%",
-    "uptimeYear": "1.61%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 215,
     "timeDay": 215,
     "timeWeek": 215,
     "timeMonth": 215,
     "timeYear": 215,
-    "dailyMinutesDown": {
-      "2024-10-31": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CDN",
