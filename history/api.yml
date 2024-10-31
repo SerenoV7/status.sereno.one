@@ -1,7 +1,7 @@
-url: https://api.sereno.one
-status: down
-code: 404
-responseTime: 216
-lastUpdated: 2024-10-31T09:01:29.398Z
+url: https://api.sereno.one/getRandomCharacterList
+status: up
+code: 302
+responseTime: 213
+lastUpdated: 2024-10-31T09:04:53.964Z
 startTime: 2024-10-31T09:01:29.161Z
 generator: Upptime <https://github.com/upptime/upptime>
