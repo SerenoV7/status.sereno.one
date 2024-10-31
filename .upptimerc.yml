@@ -10,7 +10,7 @@ sites:
   - name: OpenWebUI
     url: https://ai.sereno.one
   - name: API
-    url: https://api.sereno.one
+    url: https://api.sereno.one/getRandomCharacterList
   - name: CDN
     url: https://cdn.sereno.one/i/morch.png
 
