@@ -1,7 +1,7 @@
 url: https://drive.sereno.one
-status: up
-code: 200
-responseTime: 884
-lastUpdated: 2024-11-09T23:04:58.564Z
+status: down
+code: 502
+responseTime: 15507
+lastUpdated: 2024-11-10T19:45:16.627Z
 startTime: 2024-09-06T12:41:09.799Z
 generator: Upptime <https://github.com/upptime/upptime>
