@@ -40,9 +40,9 @@
     "url": "https://archive.sereno.one",
     "icon": "https://icons.duckduckgo.com/ip3/archive.sereno.one.ico",
     "slug": "archive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 531,
     "timeMonth": 541,
     "timeYear": 541,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-17": 0
+    }
   },
   {
     "name": "Drive",
@@ -88,18 +90,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.sereno.one.ico",
     "slug": "git-lab",
     "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.65%",
+    "uptime": "99.58%",
+    "uptimeDay": "92.19%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.58%",
     "time": 1454,
     "timeDay": 1426,
     "timeWeek": 1384,
     "timeMonth": 1345,
     "timeYear": 1454,
     "dailyMinutesDown": {
-      "2024-12-17": 0,
+      "2024-12-17": 112,
       "2024-11-10": 42,
       "2024-10-25": 262,
       "2024-10-23": 26,
@@ -113,18 +115,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ai.sereno.one.ico",
     "slug": "open-web-ui",
     "status": "down",
-    "uptime": "95.15%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "95.15%",
+    "uptime": "95.08%",
+    "uptimeDay": "91.53%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "95.08%",
     "time": 915,
     "timeDay": 848,
     "timeWeek": 764,
     "timeMonth": 741,
     "timeYear": 915,
     "dailyMinutesDown": {
-      "2024-12-17": 10,
+      "2024-12-17": 122,
       "2024-11-10": 41,
       "2024-10-30": 999,
       "2024-10-29": 1440,
@@ -139,9 +141,9 @@
     "url": "https://api.sereno.one/getRandomCharacterList",
     "icon": "https://icons.duckduckgo.com/ip3/api.sereno.one.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -150,14 +152,16 @@
     "timeWeek": 224,
     "timeMonth": 211,
     "timeYear": 210,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-17": 0
+    }
   },
   {
     "name": "CDN",
     "url": "https://cdn.sereno.one/i/morch.png",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.sereno.one.ico",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -168,6 +172,8 @@
     "timeWeek": 234,
     "timeMonth": 239,
     "timeYear": 279,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-17": 0
+    }
   }
 ]
