@@ -4,9 +4,9 @@
     "url": "https://npm.sereno.one",
     "icon": "https://icons.duckduckgo.com/ip3/npm.sereno.one.ico",
     "slug": "nginx-proxy-manager",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 255,
     "timeMonth": 253,
     "timeYear": 253,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-17": 0
+    }
   },
   {
     "name": "VaultWarden",
     "url": "https://vw.sereno.one",
     "icon": "https://icons.duckduckgo.com/ip3/vw.sereno.one.ico",
     "slug": "vault-warden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 244,
     "timeMonth": 257,
     "timeYear": 257,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-17": 0
+    }
   },
   {
     "name": "Archive",
@@ -41,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/archive.sereno.one.ico",
     "slug": "archive",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 541,
     "timeDay": 318,
     "timeWeek": 531,
     "timeMonth": 541,
     "timeYear": 541,
     "dailyMinutesDown": {
-      "2024-12-17": 0
+      "2024-12-17": 9
     }
   },
   {
@@ -60,9 +64,9 @@
     "url": "https://drive.sereno.one",
     "icon": "https://icons.duckduckgo.com/ip3/drive.sereno.one.ico",
     "slug": "drive",
-    "status": "up",
+    "status": "down",
     "uptime": "98.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.29%",
     "uptimeYear": "98.52%",
@@ -72,6 +76,7 @@
     "timeMonth": 1377,
     "timeYear": 1412,
     "dailyMinutesDown": {
+      "2024-12-17": 0,
       "2024-11-26": 731,
       "2024-11-18": 16,
       "2024-11-13": 22,
@@ -90,18 +95,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.sereno.one.ico",
     "slug": "git-lab",
     "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "92.19%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.58%",
+    "uptime": "99.57%",
+    "uptimeDay": "91.54%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.57%",
     "time": 1454,
     "timeDay": 1426,
     "timeWeek": 1384,
     "timeMonth": 1345,
     "timeYear": 1454,
     "dailyMinutesDown": {
-      "2024-12-17": 112,
+      "2024-12-17": 122,
       "2024-11-10": 42,
       "2024-10-25": 262,
       "2024-10-23": 26,
@@ -115,18 +120,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ai.sereno.one.ico",
     "slug": "open-web-ui",
     "status": "down",
-    "uptime": "95.08%",
-    "uptimeDay": "91.53%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "95.08%",
+    "uptime": "95.07%",
+    "uptimeDay": "90.88%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "95.07%",
     "time": 915,
     "timeDay": 848,
     "timeWeek": 764,
     "timeMonth": 741,
     "timeYear": 915,
     "dailyMinutesDown": {
-      "2024-12-17": 122,
+      "2024-12-17": 131,
       "2024-11-10": 41,
       "2024-10-30": 999,
       "2024-10-29": 1440,
@@ -142,18 +147,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.sereno.one.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 210,
     "timeDay": 114,
     "timeWeek": 224,
     "timeMonth": 211,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2024-12-17": 0
+      "2024-12-17": 9
     }
   },
   {
@@ -162,18 +167,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.sereno.one.ico",
     "slug": "cdn",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 279,
     "timeDay": 77,
     "timeWeek": 234,
     "timeMonth": 239,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2024-12-17": 0
+      "2024-12-17": 9
     }
   }
 ]
